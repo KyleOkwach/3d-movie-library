@@ -1,7 +1,6 @@
 'use client';
 import { Gi3dGlasses } from "react-icons/gi";
 import { CiSearch } from "react-icons/ci";
-import { FaMoon } from "react-icons/fa";
 
 import Link from "next/link";
 import { NavLinks } from "../constants";
